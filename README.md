@@ -2,7 +2,7 @@
 Wakes the screen on wake word
 
 ## About
-A skill that listens to the mycroft messagebus for wake-word activation and wake the current screen
+A mycroft skill that listens to the mycroft messagebus for wake-word activation and wakes the current screen
 
 ## Examples
 
